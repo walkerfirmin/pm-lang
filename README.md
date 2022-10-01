@@ -1,10 +1,8 @@
 # pm-\<Lang-here\>
 
-<div style="display:flex; justify-content:center; align-items: center; flex-direction:column; width: 100vw;">
-    <p style="font-weight: bold;">Python</p>
-    <p style="font-weight: bold;">Go</p>
-    <p style="font-weight: bold;">Rust</p>
-</div>
+python
+rust
+go
 
 ## Project Structure
 
