@@ -4,8 +4,10 @@
 
 ### pm-example 
 ### -h | —help
+```
 	print signature ex:pm-example [params] command [command-params]  
 	commands 
+```
 
 ### init <name> - creates package.json with name property
 
