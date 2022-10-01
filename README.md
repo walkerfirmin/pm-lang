@@ -1,4 +1,4 @@
-# pm-<Lang-here>
+# pm-\<Lang-here\>
 
 ## Project Structure
 
