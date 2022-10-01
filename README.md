@@ -1,23 +1,20 @@
-# PM examples
+ pm-<Lang-here>
 
-## Project structure
-### pm-<Lang-here>
-
-### pm-example 
-### -h | —help
+pm-example 
+-h | —help
 	print signature ex:pm-example [params] command [command-params]  
 	commands 
 
-### init <name> - creates package.json with name property
+init <name> - creates package.json with name property
 
-###search - gets list of packages
+search - gets list of packages
 
 This address returns package information (such as package name & version)
 https://www.npmjs.com/search/suggestions?q=<package-name-here>
 
 
-### pm-example install				 			Adds package to dependencies
-### pm-example install —save-dev 			Adds package to devDependencies
+pm-example install				 			Adds package to dependencies
+pm-example install —save-dev 			Adds package to devDependencies
 
 install - Adds package name to JSON packages array
 {
