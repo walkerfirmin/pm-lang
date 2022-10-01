@@ -15,18 +15,18 @@
 > https://www.npmjs.com/search/suggestions?q=\<package-name-here\>
 
 
-### pm-example install				 			Adds package to dependencies
+### pm-example install				 		Adds package to dependencies
 ### pm-example install —save-dev 			Adds package to devDependencies
 
 install - Adds package name to JSON packages array
 ```
 {
-“name”: “pm-<Lang-here>”,
-"dependencies": {
-	"express": "~4.0.0",
-},
-"devDependencies": {
-	"express-validator": "~6.12.1",
-}
+	“name”: “pm-<Lang-here>”,
+	"dependencies": {
+		"express": "~4.0.0",
+	},
+	"devDependencies": {
+		"express-validator": "~6.12.1",
+	}
 }
 ```
