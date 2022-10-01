@@ -14,9 +14,11 @@
 > This address returns package information (such as package name & version)
 > https://www.npmjs.com/search/suggestions?q=\<package-name-here\>
 
+### Adds package to dependencies
+```pm-example install```
 
-### pm-example install				 		Adds package to dependencies
-### pm-example install —save-dev 			Adds package to devDependencies
+### Adds package to devDependencies
+```pm-example install —save-dev```
 
 install - Adds package name to JSON packages array
 ```
